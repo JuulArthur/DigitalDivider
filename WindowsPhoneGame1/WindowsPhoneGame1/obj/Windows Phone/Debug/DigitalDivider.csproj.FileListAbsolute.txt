@@ -1,0 +1,523 @@
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\SplashLogo.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Microsoft.Advertising.Mobile.Xna.xml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.dll
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\DigitalDivider.pdb
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\DigitalDivider.xap
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

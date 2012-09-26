@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BG.jpg</Source>
+      <Name>BG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb</Output>
+      <Time>2012-02-24T11:43:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fields.png</Source>
+      <Name>Fields</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb</Output>
+      <Time>2012-02-24T22:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Twirls.png</Source>
+      <Name>Twirls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb</Output>
+      <Time>2012-02-24T22:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>menuBg.png</Source>
+      <Name>menuBg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb</Output>
+      <Time>2012-03-01T07:54:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialImage1.png</Source>
+      <Name>tutorialImage1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage1.xnb</Output>
+      <Time>2012-02-25T03:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialImage2.png</Source>
+      <Name>tutorialImage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage2.xnb</Output>
+      <Time>2012-02-25T03:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialImage3.png</Source>
+      <Name>tutorialImage3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage3.xnb</Output>
+      <Time>2012-02-25T03:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialImage4.png</Source>
+      <Name>tutorialImage4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage4.xnb</Output>
+      <Time>2012-02-25T03:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialImage5.png</Source>
+      <Name>tutorialImage5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\tutorialImage5.xnb</Output>
+      <Time>2012-02-25T03:40:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverImage.png</Source>
+      <Name>gameOverImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\gameOverImage.xnb</Output>
+      <Time>2012-02-25T04:12:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>creditsImage.png</Source>
+      <Name>creditsImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\creditsImage.xnb</Output>
+      <Time>2012-06-11T21:33:59+02:00</Time>
+    </Item>
+    <Item>
+      <Source>highscoresImage.png</Source>
+      <Name>highscoresImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\highscoresImage.xnb</Output>
+      <Time>2012-03-01T08:04:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TrailMid.png</Source>
+      <Name>TrailMid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailMid.xnb</Output>
+      <Time>2012-03-01T17:40:51+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TrailTop.png</Source>
+      <Name>TrailTop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb</Output>
+      <Time>2012-03-01T17:41:11+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TrailBot.png</Source>
+      <Name>TrailBot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb</Output>
+      <Time>2012-03-01T17:47:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>splashLogo.png</Source>
+      <Name>splashLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\splashLogo.xnb</Output>
+      <Time>2012-03-01T09:00:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HitSprite2000.png</Source>
+      <Name>HitSprite2000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\HitSprite2000.xnb</Output>
+      <Time>2012-03-02T16:27:53+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soundOff.png</Source>
+      <Name>soundOff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOff.xnb</Output>
+      <Time>2012-03-15T10:08:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>soundOn.png</Source>
+      <Name>soundOn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\soundOn.xnb</Output>
+      <Time>2012-03-15T10:08:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\resume.xnb</Output>
+      <Time>2012-06-11T21:40:29+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\music.mp3</Source>
+      <Name>sound\music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb</Output>
+      <Extra>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma</Extra>
+      <Time>2012-02-25T02:50:57+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\accepted_number.wav</Source>
+      <Name>sound\accepted_number</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb</Output>
+      <Time>2012-02-25T03:16:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\lose.wav</Source>
+      <Name>sound\lose</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\lose.xnb</Output>
+      <Time>2012-02-25T03:16:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\menu_select.wav</Source>
+      <Name>sound\menu_select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb</Output>
+      <Time>2012-02-25T03:17:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\special_ability.wav</Source>
+      <Name>sound\special_ability</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\special_ability.xnb</Output>
+      <Time>2012-02-25T03:17:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb</Output>
+      <Time>2012-02-24T18:05:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bigFont.spritefont</Source>
+      <Name>bigFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\bigFont.xnb</Output>
+      <Time>2012-02-25T13:19:17+01:00</Time>
+    </Item>
+    <Item>
+      <Source>smallFont.spritefont</Source>
+      <Name>smallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\smallFont.xnb</Output>
+      <Time>2012-02-25T13:37:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mediumFont.spritefont</Source>
+      <Name>mediumFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\mediumFont.xnb</Output>
+      <Time>2012-02-25T13:47:38+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-15T10:48:45.1910885+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

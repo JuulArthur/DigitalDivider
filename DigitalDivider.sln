@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalDivider", "WindowsPhoneGame1\WindowsPhoneGame1\DigitalDivider.csproj", "{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalDividerContent", "WindowsPhoneGame1\WindowsPhoneGame1Content\DigitalDividerContent.contentproj", "{4E7A3E0C-B867-413B-82A6-B429344CD27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6776FAD7-99A9-4CF0-8310-7BDCD7DB4EA1}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{4E7A3E0C-B867-413B-82A6-B429344CD27D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{4E7A3E0C-B867-413B-82A6-B429344CD27D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

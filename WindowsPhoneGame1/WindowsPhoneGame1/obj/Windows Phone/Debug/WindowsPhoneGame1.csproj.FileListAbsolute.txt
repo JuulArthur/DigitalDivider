@@ -1,0 +1,32 @@
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\BG.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailBot.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\TrailTop.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Fields.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Twirls.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Sound\lose.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Sound\special_ability.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\accepted_number.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\menu_select.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\sound\music.wma
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\font.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\menuBg.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\SplashLogo.xnb
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\

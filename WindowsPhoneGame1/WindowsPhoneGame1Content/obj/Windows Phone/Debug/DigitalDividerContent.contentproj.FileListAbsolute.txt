@@ -1,0 +1,8 @@
+C:\Users\Iver\Documents\Hackathon 2012\Digitaldivider\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Iver rev.28 (under utvikling)\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Dropbox\Windows app\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.30 HELE SULLAMITTEN ER FERDIG\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.31 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tobias\Desktop\Tobias rev.32 HELE SULLAMITTEN ER FERDIG xap\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+H:\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Tib\Dropbox\Windows app\Tobias rev.33 HELE SULLAMITTEN ER FERDIG FAKTISK xap\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
